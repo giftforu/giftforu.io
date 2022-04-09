@@ -2,7 +2,7 @@
 body{
     background: #7D5B9C;
     display: flex;
-    align-items: center;
+    align-items: justify;
     justify-content: center;
     margin-top: 2%;
     font-family: 'Share Tech Mono', monospace;
